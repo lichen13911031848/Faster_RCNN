@@ -1,0 +1,12 @@
+    line containing:
+
+    filepath,x1,y1,x2,y2,class_name
+
+    For example:
+ 
+-   Type_1\10.jpg,972,2349,1052,715,1
+
+-
+-   —µ¡∑£∫ python train_frcnn.py -o simple -p data.txt
+
+-   ≤‚ ‘£∫ python test_frcnn.py -p /Type_1/
